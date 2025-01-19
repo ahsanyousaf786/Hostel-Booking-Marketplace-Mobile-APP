@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">FinalYearProject</string>
+    <string name="delteR">To delete Rider Account, Please first login with rider account, and then go to delete button.</string>
+    <string name="stay_home_a">
+Stay home and order you food \nfrom fine delivery.
+</string>
+    <string name="start_order">
+Start ordering
+</string>
+    <string name="fine_delivery">Fine Delivery</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="todo">TODO</string>
+    <string name="trackingText">Parcel Tracking ID</string>
+    <string name="trackingH">Enter parcel ID</string>
+    <string name="name">Name</string>
+    <string name="exitT">Are you sure want to exit?</string>
+    <string name="houeN">House number</string>
+    <string name="adrsess">Adrsess</string>
+    <string name="pices">Pieces</string>
+    <string name="weight">Weight</string>
+    <string name="landMark">Nearest landmark(optional)</string>
+    <string name="pickerT">Picker details</string>
+    <string name="trackT">Parcel Track</string>
+    <string name="rateT">Rates</string>
+    <string name="nameH">Enter your name</string>
+    <string name="moblieT">Mobile number</string>
+    <string name="moblieH">Enter mobile no</string>
+    <string name="what_would_you_like_to_do">What would you like to do?</string>
+    <string name="title_activity_maps">Map Current Location</string>
+    <string name="title_activity_google_maps">GoogleMaps</string>
+    <string name="des">Welcome to Fine Delivery Services 🚚
+1▫️Speed is often touted as the most important factor in online delivery, but research suggests that aspects like reliability, convenience, and cost are more valuable to today’s consumers.
+2▫️Few things are more satisfying than not leaving your house or office to access your favorite things. That’s what delivery provides. Whether it’s dinner, clothes, adult beverages or emergency snacks, delivery apps are a huge part of how people and businesses shop.
+3▫️You can get food, alcohol, clothing and more quickly through delivery services.
+4▫️A reliable delivery service offers quick delivery, an intuitive user interface, easy returns, consistent access, and sometimes free shipping or delivery.
+5▫️Your business can use delivery services to get office supplies quickly, set up holiday parties or outsource specific tasks.
+    </string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="signin">SignIn</string>
+    <string name="signup">SignUp</string>
+</resources>
